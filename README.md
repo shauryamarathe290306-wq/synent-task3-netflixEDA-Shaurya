@@ -1,4 +1,6 @@
 # 🎬 Netflix Dataset - Exploratory Data Analysis (EDA)
+link for dataset: https://www.kaggle.com/datasets/shivamb/netflix-shows
+
 
 ## 📌 Project Title
 
